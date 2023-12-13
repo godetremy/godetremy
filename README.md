@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello ! Je suis Rémy ! 👋
 
-<!--
-**godetremy/godetremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **🌆 Actuellement basé à Angoulême**<br>
+> **🎓 Lycéen en RPIP au lycée Édouard Branly à Châtellerault**<br>
+> **💻 Développeur Web Fullstack**<br>
 
-Here are some ideas to get you started:
+## 📈 Mes stats
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=godetremy&show_icons=true&hide_border=true)](https://github.com/godetremy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⏫️ Skills
+- 🌍 HTML / CSS / JS
+- ⚙️ PHP
+- 🐥 SwiftUI
+- 🔧 NodeJS
+- 🐍 Python
+- 📱 Cordova / React Native
+
+## 📝 Projets récents
+
+- 🚀 [Papillon](https://getpapillon.xyz) - Alternative au client Pronote
+
+## ✉️ Contact 
+- 🐦 Twitter: [@godetremy_](https://twitter.com/godetremy_)
+- 🍱 Bento: [Godet Rémy](https://bento.me/godetremy)
+- 🌐 [Mon portfolio](https://godetremy.free.fr)
